@@ -1,2 +1,3 @@
 This is created through FeatureA
 this is a new change
+this is a new line from Fresh Branch
